@@ -85,11 +85,6 @@ const App = () => {
     return (
         <main>
             <div className="pattern"/>
-
-            <div>
-
-            </div>
-
             <div className="wrapper">
                 <header>
                     <img
@@ -133,11 +128,7 @@ const App = () => {
                     )}
                 </section>
             </div>
-
-
         </main>
-
-
     )
 }
 
